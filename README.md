@@ -18,13 +18,14 @@
 <!-- About Section -->
 <h2 align="center">🧠 About Me</h2>
 
-
+```text
 🎓 CS & Math Student | USACO Gold Division
   ├── 👑 President: CS Club, CSHS & Mu Alpha Theta / UIL Math Team
   ├── 🔬 Researcher: <a href="[https://www.doi.org/10.70251/HYJR2348.44364379](https://www.doi.org/10.70251/HYJR2348.44364379)">Mathematical Models in Quantifying Personal Productivity</a>
   ├── 🎥 Founder @ TUA Academy (Math Prep YouTube Channel)
   └── 📫 Reach me at: guhan.sgargya@gmail.com
 
+```
 
 * **Adversarial Cloaking Researcher** @ *UT Austin*
 
