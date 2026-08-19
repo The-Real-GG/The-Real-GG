@@ -23,7 +23,6 @@
   ├── 🔬 Researcher: Mathematical Models in Quantifying Personal Productivity
   ├── 🎥 Founder @ TUA Academy (Math Prep YouTube Channel)
   └── 📫 Reach me at: guhan.sgargya@gmail.com
-
 ```
 
 ### 🔬 **Adversarial Cloaking Researcher** · *UT Austin*
@@ -79,5 +78,4 @@
 | 🥉 | **3rd Place** – Clements CS Competition | 2025 |
 | 🏅 | **4th Place** – Seven Lakes CS Competition | 2025 |
 | 🏅 | **4th Place** – Taylor CS Competition | 2024 |
-
 ```
