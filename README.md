@@ -26,27 +26,7 @@
 
 ```
 
-### 🔬 **Adversarial Cloaking Researcher** · *UT Austin*
-
-* Optimized a pipeline designed to deceive 3D object detectors using texture-modified human meshes.
-* Authored advanced technical documentation detailing patch initialization, training flow, and dynamic pose conversions.
-* Analyzed gradient-based augmentations to address rigid pose dataset limitations.
-
-### 🤖 **Summer Intern** · *Activera* *(2026)*
-
-* Built and deployed the production version of a Net Present Value (NPV) Estimation Tool alongside documentation and a GitHub repo.
-* Co-developed the *Business First AI Framework*, AI Adoption Rubric, and Excel-based Desire & Readiness Assessment with automated scoring.
-* Tailored assessment frameworks specifically for Energy sector clients and presented solutions directly to executive leadership.
-
-### 💻 **Summer AI Intern** · *ZCubes*
-
-* Developed technical presentations explaining deep learning concepts and AI architectures.
-* Initiated development on a Node.js JavaScript-based LLM implementation.
-
-### 🎥 **Founder & Lead Instructor** · *TUA Academy*
-
-* Created a TMSCA General Math preparation YouTube channel featuring **15+ hours** of content and **8,000+ views**.
-* Taught **70+ students** through in-person lessons, driving average score improvements of 30–50 points.
+### Projects
 
 * 📊 **[NPV Estimation Engine](https://www.google.com/search?q=https://github.com/YOUR_USERNAME)**
 * Built a production-ready financial estimation engine for analyzing Net Present Value with automated evaluation metrics.
@@ -63,7 +43,7 @@
 * **Tech Stack:** `Python` `Computer Vision` `Robotics`
 
 
-* 📈 **Productivity Quantification Research**
+* 📈 [**Productivity Quantification Research**](https://www.doi.org/10.70251/HYJR2348.44364379)
 * Formulated a weighted mathematical model to analyze daily personal productivity variables including accuracy, efficiency, and idle time.
 * **Tech Stack:** `Data Analysis` `Mathematical Modeling` `Research`
 
