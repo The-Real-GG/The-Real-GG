@@ -74,7 +74,3 @@
 | 🥇 | **USACO Gold Division Competitor** | *Active* |
 | 🥉 | **3rd Place** – Texas UIL CS State Championship | 2026 |
 | 🥇 | **Gold Award** – Invitational International Math Optimization Challenge (IIMOC) | 2026 |
-
-```
-test
-```
