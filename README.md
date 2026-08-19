@@ -81,5 +81,3 @@
 | 🏅 | **4th Place** – Taylor CS Competition | 2024 |
 
 ```
-
-```
