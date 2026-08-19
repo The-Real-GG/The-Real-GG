@@ -47,10 +47,3 @@
 * Formulated a weighted mathematical model to analyze daily personal productivity variables including accuracy, efficiency, and idle time.
 * **Tech Stack:** `Data Analysis` `Mathematical Modeling` `Research`
 
-
-
-| Placement | Award / Competition | Year |
-| --- | --- | --- |
-| 🥇 | **USACO Gold Division Competitor** | *Active* |
-| 🥉 | **3rd Place** – Texas UIL CS State Championship | 2026 |
-| 🥇 | **Gold Award** – Invitational International Math Optimization Challenge (IIMOC) | 2026 |
