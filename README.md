@@ -32,7 +32,7 @@
 * Authored advanced technical documentation detailing patch initialization, training flow, and dynamic pose conversions.
 * Analyzed gradient-based augmentations to address rigid pose dataset limitations.
 
-### 🤖 **AI Summer Intern** · *Activera* *(2026)*
+### 🤖 **Summer Intern** · *Activera* *(2026)*
 
 * Built and deployed the production version of a Net Present Value (NPV) Estimation Tool alongside documentation and a GitHub repo.
 * Co-developed the *Business First AI Framework*, AI Adoption Rubric, and Excel-based Desire & Readiness Assessment with automated scoring.
