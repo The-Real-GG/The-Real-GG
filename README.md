@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <!-- Header Banner -->
@@ -23,6 +24,7 @@
   ├── 🔬 Researcher: Mathematical Models in Quantifying Personal Productivity
   ├── 🎥 Founder @ TUA Academy (Math Prep YouTube Channel)
   └── 📫 Reach me at: guhan.sgargya@gmail.com
+
 ```
 
 ### 🔬 **Adversarial Cloaking Researcher** · *UT Austin*
@@ -71,11 +73,9 @@
 | Placement | Award / Competition | Year |
 | --- | --- | --- |
 | 🥇 | **USACO Gold Division Competitor** | *Active* |
-| 🥇 | **1st Place** – UIL CS District Championship | 2026 |
-| 🥈 | **2nd Place** – UIL CS Regional Championship | 2026 |
-| 🥇 | **1st Place** – Taylor CS Competition | 2025 |
-| 🥈 | **2nd Place** – UIL Math Districts & UIL Invitational A | 2024–2026 |
-| 🥉 | **3rd Place** – Clements CS Competition | 2025 |
-| 🏅 | **4th Place** – Seven Lakes CS Competition | 2025 |
-| 🏅 | **4th Place** – Taylor CS Competition | 2024 |
+| 🥉 | **3rd Place** – Texas UIL CS State Championship | 2026 |
+| 🥇 | **Gold Award** – Invitational International Math Optimization Challenge (IIMOC) | 2026 |
+
+```
+test
 ```
