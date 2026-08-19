@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**The-Real-GG/The-Real-GG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Guhan%20Gargya%20👋&fontSize=38&fontColor=fff&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+<!-- Location & Status -->
+<p align="center">
+  📍 <strong>Location:</strong> Houston, TX &nbsp;|&nbsp; 
+  🚀 <strong>Focus:</strong> Computer Science, Math, AI & Data Science
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00BFFF&section=footer" width="100%" />
+
+</div>
+
+<!-- About Section -->
+<h2 align="center">🧠 About Me</h2>
+
+```text
+  ├── 🎓 CS & Math Student | USACO Gold Division
+  ├── 👑 President: CS Club, CSHS & Mu Alpha Theta / UIL Math Team
+  ├── 🔬 Researcher: Adversarial Cloaking (UT Austin) & Math Models in Productivity
+  ├── 💼 Summer AI Intern @ Activera (NPV Estimation Tool) & ZCubes
+  ├── 🎥 Founder @ TUA Academy (Math Prep YouTube Channel)
+  └── 📫 Reach me at: guhan.sgargya@gmail.com
